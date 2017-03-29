@@ -1,1 +1,1 @@
-export const MOCK_API: string = 'https://open-point-of-sale.herokuapp.com/api/v1/';
+export const MOCK_API: string = "https://open-point-of-sale.herokuapp.com/api/v1/";
